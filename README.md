@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic-Tac-Toe Game
 
 This is a simple command-line Tic Tac Toe game implemented in C++.
 
